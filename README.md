@@ -32,14 +32,20 @@ File structure:
 .
 ├── ENVS-193DS_workshop-08.Rproj
 ├── README.md
-├── code                                     # code folder
-│   ├── workshop-08_code_KEY.Rmd             # keys
-│   ├── workshop-08_code_KEY.html            # rendered output is from .qmd key
+├── code                                            # code folder
+│   ├── workshop-08_code_KEY.Rmd                    # keys
+│   ├── workshop-08_code_KEY.html                   # rendered output from key
 │   ├── workshop-08_code_KEY.qmd
 │   ├── workshop-08_code_KEY_files
-│   ├── workshop-08_code_TEMPLATE.Rmd        # templates
-│   └── workshop-08_code_TEMPLATE.qmd
-└── data                                     # data folder
+│   ├── workshop-08_code_TEMPLATE.Rmd               # templates
+│   ├── workshop-08_code_TEMPLATE.qmd
+│   ├── workshop-08_code_TEMPLATE_4PM.html          # An's template from 4 PM
+│   ├── workshop-08_code_TEMPLATE_4PM.qmd
+│   ├── workshop-08_code_TEMPLATE_4PM_files
+│   ├── workshop-08_code_TEMPLATE_9AM.html          # An's template from 9 AM
+│   ├── workshop-08_code_TEMPLATE_9AM.qmd
+│   └── workshop-08_code_TEMPLATE_9AM_files
+└── data                                            # data folder
     └── Valliere_etal_EcoApps_Data.xlsx
 ```
 
