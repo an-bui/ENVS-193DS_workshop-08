@@ -51,6 +51,8 @@ The rendered key is [here](https://an-bui.github.io/ENVS-193DS_workshop-08/code/
 
 The rendered version of the template from 4 PM is [here](https://an-bui.github.io/ENVS-193DS_workshop-08/code/workshop-08_code_TEMPLATE_4PM.html).  
 
+The rendered version of the template from 9 AM is [here](https://an-bui.github.io/ENVS-193DS_workshop-08/code/workshop-08_code_TEMPLATE_9AM.html).  
+
 You will need to find the rendered output to your own .html in your forked version of the repository! Insert that link here.  
 
 
